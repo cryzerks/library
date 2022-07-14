@@ -1,0 +1,10 @@
+{
+  update = "14.07.2022",
+  author = "keri",
+  
+  name = "sendiago", 
+  
+  link = "https://raw.githubusercontent.com/cryzerks/library/main/%5Bst%5D%20sendiago.lua", 
+  
+  aviable = true
+},
